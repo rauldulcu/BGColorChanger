@@ -5,3 +5,9 @@ The functionality is quite simple: with each press of the button in the middle t
 ![image](https://user-images.githubusercontent.com/99651712/222285325-3053e4a7-a6f9-40b3-aeba-3c19aa912808.png)
 And one more time:
 ![image](https://user-images.githubusercontent.com/99651712/222285458-83f76dc7-5983-4e14-a454-81614252389a.png)
+
+
+NEW button:
+
+![image](https://user-images.githubusercontent.com/99651712/226886856-a38f674c-d41a-485e-acd1-fbdfc6a7778d.png)
+
